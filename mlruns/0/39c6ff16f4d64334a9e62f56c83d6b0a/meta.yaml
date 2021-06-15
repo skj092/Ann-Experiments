@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sonu.ramkumar.jha/Desktop/experiments/mlruns/0/39c6ff16f4d64334a9e62f56c83d6b0a/artifacts
+end_time: 1623727208738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 39c6ff16f4d64334a9e62f56c83d6b0a
+run_uuid: 39c6ff16f4d64334a9e62f56c83d6b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623727151637
+status: 3
+tags: []
+user_id: sonu.ramkumar.jha
