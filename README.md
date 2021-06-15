@@ -1,4 +1,4 @@
-# Use ML-FLOW and TensorFlow2.0(Keras) to record all your experiments on Fashion MNIST dataset.
+# Use ML-FLOW and TensorFlow2.0(Keras) to record all the experiments on Fashion MNIST dataset.
 
 1. Study and document the evolution of ANN from Perceptron with derivation.
 2. Document problems generally faced in training an ANN and their solution provided in the lecture with derivation.
