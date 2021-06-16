@@ -14,7 +14,7 @@
 
 ----------------------------------------------------------------------
 
-**3-4. Results Of Different Available Activation Functions**
+**3-4. [Results Of Different Available Activation Functions](https://github.com/skj092/experiments/blob/main/Activation_function_and_Weight_initializer.ipynb)**
 
 |Act Func|initializer|train_loss|train_accuracy|test_loss|test_accuracy|
 |-------|-------------|-------|---------|-------|------|
@@ -37,7 +37,7 @@
 - Order of model according to test_accuracy is : `relu > tanh > selu > sigmoid > softmax`.
 
 -------------------------------------------------------------------
-**5. Batch Normalization**
+**5. [Batch Normalization](https://github.com/skj092/experiments/blob/main/BatchNormalization.ipynb)**
 
 `Observations`
 - Accuracy decreases with BatchNormalization may be because of the smaller network.
@@ -49,3 +49,39 @@
 |10|yes|0.2863 |0.8935	|0.3526 |0.8742|
 |20|no|0.1871 |0.9292	|0.3351 |0.8863|
 |20|yes|0.2457 |0.9078|0.3551 |0.8809|
+
+**[Transfer Learning](#)**
+
+**[Callbacks](#)**
+
+**[Optimizers](#)**
+
+`Model Structure : `
+
+![model structure](images\model.jpeg)
+
+`Forward Pass : `
+
+![Forward Pass](images\fp.PNG)
+
+![Whole Forward Pass](images\wfp.PNG)
+
+
+
+**Gradient Discent :**
+
+![Backword Pass](images\bp.PNG)
+
+
+**Momentum Optimizer :**
+
+![Momentum 1](images\m1.PNG)
+
+![Momentum 2](images\m2.PNG)
+
+![Momentum 3](images\m3.PNG)
+
+**Observatinos**
+- As you can see in Case:1 for beta = 0, weight update happens like Gradient Discent.
+- For beta=0.9 (practically good), Weight depends on 81% of past weight, 90% recent past weight and 100% the last weight.
+- Therefore `momemtum optimizer` has and advantage over `Gradient Discent` that with the `impace of previous weight` it can jump through `saddle point`.
