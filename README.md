@@ -58,28 +58,29 @@
 
 `Model Structure : `
 
-![model structure](images\model.jpeg)
+![model](https://user-images.githubusercontent.com/43055935/122246286-0cf23f80-cee4-11eb-88bb-1004bda337c6.jpeg)
+
 
 `Forward Pass : `
 
-![Forward Pass](images\fp.PNG)
+<img width="427" alt="fp" src="https://user-images.githubusercontent.com/43055935/122246450-2dba9500-cee4-11eb-86e1-b791bb2d221e.PNG">
 
-![Whole Forward Pass](images\wfp.PNG)
 
+<img width="527" alt="wfp" src="https://user-images.githubusercontent.com/43055935/122246573-4925a000-cee4-11eb-89a5-2a3c77037ee4.PNG">
 
 
 **Gradient Discent :**
 
-![Backword Pass](images\bp.PNG)
+<img width="466" alt="bp" src="https://user-images.githubusercontent.com/43055935/122246689-65294180-cee4-11eb-8419-3bc4a431004e.PNG">
 
 
 **Momentum Optimizer :**
 
-![Momentum 1](images\m1.PNG)
+<img width="509" alt="m1" src="https://user-images.githubusercontent.com/43055935/122246751-740ff400-cee4-11eb-9998-64f41dfb0580.PNG">
 
-![Momentum 2](images\m2.PNG)
+<img width="513" alt="m2" src="https://user-images.githubusercontent.com/43055935/122246810-7ffbb600-cee4-11eb-82e4-31b503942fb2.PNG">
 
-![Momentum 3](images\m3.PNG)
+<img width="561" alt="m3" src="https://user-images.githubusercontent.com/43055935/122246889-8db13b80-cee4-11eb-8358-09e989209db7.PNG">
 
 **Observatinos**
 - As you can see in Case:1 for beta = 0, weight update happens like Gradient Discent.
