@@ -14,7 +14,7 @@
 
 ----------------------------------------------------------------------
 
-**3-4. [Results Of Different Available Activation Functions](https://github.com/skj092/experiments/blob/main/Activation_function_and_Weight_initializer.ipynb)**
+**3-4. [Results Of Different Available Activation Functions](https://github.com/skj092/experiments/blob/main/3_4_Activation_function_and_Weight_initializer.ipynb)**
 
 |Act Func|initializer|train_loss|train_accuracy|test_loss|test_accuracy|
 |-------|-------------|-------|---------|-------|------|
@@ -37,7 +37,7 @@
 - Order of model according to test_accuracy is : `relu > tanh > selu > sigmoid > softmax`.
 
 -------------------------------------------------------------------
-**5. [Batch Normalization](https://github.com/skj092/experiments/blob/main/BatchNormalization.ipynb)**
+**5. [Batch Normalization](https://github.com/skj092/experiments/blob/main/5_BatchNormalization.ipynb)**
 
 `Observations`
 - Accuracy decreases with BatchNormalization may be because of the smaller network.
