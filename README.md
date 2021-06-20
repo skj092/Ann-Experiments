@@ -16,4 +16,4 @@
 
 
 
-**Note :** `Some of the notebook contain latex code which doesn not support in github. You can open the notebook in [google drive](https://drive.google.com/drive/folders/1QZszJS_IkC4Fx3rPanicVWjZA-AJ90RY?usp=sharing).`
+**Note :** Some of the notebook contain latex code which doesn not support in github. You can open the notebook in [google drive](https://drive.google.com/drive/folders/1QZszJS_IkC4Fx3rPanicVWjZA-AJ90RY?usp=sharing).
