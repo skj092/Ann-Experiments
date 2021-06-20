@@ -1,5 +1,8 @@
 .ipynb_checkpoints/
 env/
 model.h5
-# 
-# mlruns/
+.vscode/
+mlruns/
+
+# model
+*.h5 
